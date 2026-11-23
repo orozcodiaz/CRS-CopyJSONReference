@@ -1,0 +1,16 @@
+CRS - Copy JSON Reference
+========================
+
+Thank you for installing CRS - Copy JSON Reference!
+
+Right-click any key or value in a JSON file and choose
+"CRS - Copy JSON Reference" (it appears near the regular Copy item).
+
+The path will be copied to the clipboard in the form:
+
+    body.data.values.contact
+
+You can also use the Command Palette or the shortcut Ctrl+Alt+J.
+
+Enjoy!
+— Cold Rock Software
