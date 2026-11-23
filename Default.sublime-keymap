@@ -1,9 +1,13 @@
 [
-    {
-        "keys": ["ctrl+alt+j"],
-        "command": "copy_json_reference",
-        "context": [
-            { "key": "selector", "operator": "equal", "operand": "source.json" }
-        ]
-    }
+    // No default key binding is provided, to avoid conflicts with other packages.
+    // To enable the example shortcut (active only in JSON files), copy the
+    // block below into your User key bindings (Preferences → Key Bindings):
+    //
+    // {
+    //     "keys": ["ctrl+alt+j"],
+    //     "command": "copy_json_reference",
+    //     "context": [
+    //         { "key": "selector", "operator": "equal", "operand": "source.json" }
+    //     ]
+    // }
 ]

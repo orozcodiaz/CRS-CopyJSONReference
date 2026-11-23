@@ -1,0 +1,7 @@
+{
+    // Prepend a leading dot (jq-style).
+    "leading_dot": false,
+
+    // Separator used when multiple selections are copied.
+    "multi_separator": "\n"
+}

@@ -1,6 +1,14 @@
 [
     {
-        "caption": "CRS - Copy JSON Reference",
+        "caption": "Copy JSON Reference",
         "command": "copy_json_reference"
+    },
+    {
+        "caption": "Preferences: CopyJSONReference Settings",
+        "command": "edit_settings",
+        "args": {
+            "base_file": "${packages}/CopyJSONReference/CopyJSONReference.sublime-settings",
+            "default": "// CopyJSONReference Settings\n//\n// Copy any of these keys into this file to override the defaults.\n{\n\t// Prepend a leading dot (jq-style). Default: false\n\t// \"leading_dot\": false,\n\n\t// Separator used when multiple selections are copied. Default: newline\n\t// \"multi_separator\": \"\\n\"\n}\n"
+        }
     }
 ]

@@ -4,7 +4,7 @@ import sublime
 import sublime_plugin
 
 
-SETTINGS_NAME = "CRS-CopyJSONReference.sublime-settings"
+SETTINGS_NAME = "CopyJSONReference.sublime-settings"
 
 
 def plugin_loaded():

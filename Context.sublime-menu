@@ -1,7 +1,7 @@
 [
     { "caption": "-", "id": "clipboard" },
     {
-        "caption": "CRS - Copy JSON Reference",
+        "caption": "Copy JSON Reference",
         "command": "copy_json_reference"
     }
 ]
